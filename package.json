@@ -33,7 +33,7 @@
     "bourbon": "^4.2.6",
     "bourbon-neat": "^1.7.3",
     "cross-spawn": "^2.1.5",
-    "jquery": "^2.2.0",
+    "jquery": "^3.5.1",
     "normalize.css": "^3.0.3",
     "politespace": "^0.1.4"
   },
